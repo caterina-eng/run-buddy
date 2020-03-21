@@ -256,4 +256,16 @@ section {
     color: #fce138;
   }
   
+  .hero {
+    background-image: url(../assets/images/hero-bg.jpg);
+    background-size: cover;
+    position: relative;
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+
+
   /* REACH OUT STYLES END */
